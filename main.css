@@ -1,0 +1,190 @@
+
+.sky
+{
+height: 300px; width:1000px; background-color: black;
+display: flex;
+position: relative;
+}
+
+.tree
+{
+    display: flex;  
+}
+.moon
+{
+    height: 80px;
+    width: 80px;
+    background-image: linear-gradient(rgb(100, 102, 100),rgb(255, 255, 255));
+    border-radius: 800px;
+    position: relative;
+    left: 600px;
+    top: 50px;
+    
+}
+
+.leaf1
+{ 
+    height: 0;
+    width: 0;
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+    border-bottom: 80px solid green;  
+    position: absolute;
+    top: 20px;
+    left: 80px;
+    
+ 
+}
+.leaf2
+{
+    height: 0;
+    width: 0;
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+    border-bottom: 80px solid green;  
+    position: absolute;
+    top: 60px;
+    left: 80px;
+}
+
+.leaf3
+{
+    height: 0;
+    width: 0;
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+    border-bottom: 80px solid green;  
+    position: absolute;
+    top: 100px;
+    left: 80px;
+}
+
+.leaf4
+{
+    height: 0;
+    width: 0;
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+    border-bottom: 80px solid green;  
+    position: absolute;
+    top: 130px;
+    left: 80px;
+}
+
+.stem1
+{
+    height: 90px;
+    width: 30px;
+    background-color: brown;  
+    position: absolute;
+    top: 210px;
+    left: 135px;
+}
+
+.leaf5
+{ 
+    height: 0;
+    width: 0;
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+    border-bottom: 80px solid green;  
+    position: absolute;
+    top: 10px;
+    left: 200px;
+    
+ 
+}
+
+.leaf6
+{
+    height: 0;
+    width: 0;
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+    border-bottom: 80px solid green;  
+    position: absolute;
+    top: 50px;
+    left: 200px;
+}
+
+.leaf7
+{
+    height: 0;
+    width: 0;
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+    border-bottom: 80px solid green;  
+    position: absolute;
+    top: 80px;
+    left: 200px;
+}
+
+.stem2
+{
+    height: 140px;
+    width: 30px;
+    background-color: brown;  
+    position: absolute;
+    top: 160px;
+    left: 255px;
+}
+
+.leaf8
+{ 
+    height: 0;
+    width: 0;
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+    border-bottom: 80px solid green;  
+    position: absolute;
+    top: 40px;
+    left: 320px;
+    
+ 
+}
+
+.leaf9
+{
+    height: 0;
+    width: 0;
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+    border-bottom: 80px solid green;  
+    position: absolute;
+    top: 90px;
+    left: 320px;
+}
+
+.leaf10
+{
+    height: 0;
+    width: 0;
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+    border-bottom: 80px solid green;  
+    position: absolute;
+    top: 120px;
+    left: 320px;
+}
+
+.leaf11
+{
+    height: 0;
+    width: 0;
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+    border-bottom: 80px solid green;  
+    position: absolute;
+    top: 160px;
+    left: 320px;
+}
+
+.stem3
+{
+    height: 60px;
+    width: 30px;
+    background-color: brown;  
+    position: absolute;
+    top: 240px;
+    left: 375px;
+}
